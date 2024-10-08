@@ -1,6 +1,6 @@
 # Projeto Integrador "Mediotec Senac" 🎓
 
-![Mediotec Senac](https://via.placeholder.com/600x200?text=Mediotec+Senac)  <!-- Adicione a imagem do seu projeto aqui -->
+![Mediotec Senac](https://www.pe.senac.br/mediotec/images/mediotec-mobile.webp)  <!-- Adicione a imagem do seu projeto aqui -->
 
 Repositório destinado para o Projeto Integrador do terceiro período da turma ADS032 da faculdade Senac.
 
