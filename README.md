@@ -16,9 +16,9 @@ Além disso, o sistema permite que os responsáveis acessem boletos para o pagam
 
 ## Tecnologias Utilizadas 🛠️
 
-![Node.js]() **Back-end:** Node.js  
-![HTML]() **Front-end:** HTML, CSS, JavaScript  
-![MongoDB]() **Banco de Dados:** MongoDB  
+![Node.js](#5FA04E) **Back-end:** Node.js  
+![HTML](#E34F26) **Front-end:** HTML, CSS, JavaScript  
+![MongoDB](#47A248) **Banco de Dados:** MongoDB  
 
 # Contato
 
