@@ -1,6 +1,6 @@
 # Projeto Integrador "Mediotec Senac" 🎓
 
-![Mediotec Senac](https://www.pe.senac.br/mediotec/images/mediotec-mobile.webp)  <!-- Adicione a imagem do seu projeto aqui -->
+![Mediotec Senac]()  <!-- Adicione a imagem do seu projeto aqui -->
 
 Repositório destinado para o Projeto Integrador do terceiro período da turma ADS032 da faculdade Senac.
 
@@ -16,9 +16,24 @@ Além disso, o sistema permite que os responsáveis acessem boletos para o pagam
 
 ## Tecnologias Utilizadas 🛠️
 
-![Node.js](https://via.placeholder.com/20x20?text=Node) **Back-end:** Node.js  
-![HTML](https://via.placeholder.com/20x20?text=HTML) **Front-end:** HTML, CSS, JavaScript  
-![MongoDB](https://via.placeholder.com/20x20?text=MongoDB) **Banco de Dados:** MongoDB  
+![Node.js]() **Back-end:** Node.js  
+![HTML]() **Front-end:** HTML, CSS, JavaScript  
+![MongoDB]() **Banco de Dados:** MongoDB  
+
+# Contato
+
+Este repositório contém informações de contato para colaborar, discutir ou tirar dúvidas sobre o projeto.
+
+## Informações de Contato 📞
+
+- **Nome:** []
+- **E-mail:** []()
+- **GitHub:** []()
+- **LinkedIn:** []()
+
+
+Agradeço seu interesse! 😊
+
 
 ## Instalação ⚙️
 
